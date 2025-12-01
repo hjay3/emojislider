@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Morph Lab",
+  "description": "A scientific visualization tool that morphs between images based on autonomous Gemini 2.5 Flash data streams.",
+  "requestFramePermissions": []
+}
